@@ -1,0 +1,4 @@
+Normal speed 
+20 frames/second
+arena size 500 pixels X 500 pixels
+5 minutes

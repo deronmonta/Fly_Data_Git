@@ -1,0 +1,8 @@
+2 stripes or 4stripes wiped desiccants
+flies start to die at 12 hrs (1~2 flies)
+
+Normal speed 
+20 frames/second
+arena size 500 pixels X 500 pixels
+5 minutes
+genotype: 2u
